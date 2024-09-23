@@ -4,6 +4,9 @@ Python Challenge
 
 
 
+PyPoll main code is called main.py in the pybank folder. The txt file is located in the analysis folder.
+
+
 PyBank main code is called main.py in the pybank folder. The txt file is located in the analysis folder.
 
 
