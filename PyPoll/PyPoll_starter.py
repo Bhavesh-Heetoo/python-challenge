@@ -32,7 +32,7 @@ with open(file_to_load) as election_data:
         print(". ", end="")
 
         # Increment the total vote count for each row
-
+        
 
         # Get the candidate's name from the row
 
